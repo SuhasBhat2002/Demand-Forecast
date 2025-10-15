@@ -3,10 +3,10 @@
 Note: The model for forecasting is in the demand forecast notebook; the Read Me your reading dwells into the EDA or analysis part.
 
 # Content
-1. [Impact of promotions](Analyzing Promotional effect)
+1. [Analyzing Promotional Effect](#analyzing-promotional-effect)
 
 
-## Analyzing Promotional effect
+## Analyzing Promotional Effect
 
 The dataset was from an old Kaggle competition(Rossmann store sales data), and its data has enough to create a forecasting model, but no customer info. So I had to do with what I had.
 
