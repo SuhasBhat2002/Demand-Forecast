@@ -3,7 +3,7 @@
 Note: The model for forecasting is in the demand forecast notebook; the Read Me your reading dwells into the EDA or analysis part.
 
 # Content
-1. [Impact of promotions](# Analyzing Promotional effect)
+1. [Impact of promotions](Analyzing Promotional effect)
 
 
 ## Analyzing Promotional effect
